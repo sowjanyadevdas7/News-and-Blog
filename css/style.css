@@ -1018,7 +1018,7 @@ hr {
 
 /*-----Blog2-----*/
 .blog2 {
-    background: linear-gradient(to bottom, #fff, #fff, #fff, #fff, #fff, #fff, #dee2e6);
+    background: linear-gradient(to bottom, #fff, #fff, #fff, #fff, #fff, #fff, #fff);
     padding-top: 90px;
 }
 .row {
@@ -1699,8 +1699,18 @@ hr {
     margin-bottom: 30px;
 }
 .di {
-    margin-left: 30px;
-    text-align: center;
-    margin-right: 40px;
+    margin-left: 200px;
+    text-align: justify;
+    margin-right: 200px;
     margin-bottom: 30px;
+}
+.main-headline {
+    width: 550px;
+}
+.raa {
+    text-align: center;
+}
+.heads1 {
+    margin-left: 200px;
+    margin-bottom: 20px;
 }
